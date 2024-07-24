@@ -1,13 +1,11 @@
 <h1 align="center">Olá 👋, me chamo Demitrius Cardoso</h1>
-<h3 align="center">Atualmente atuo como Analista Comercial na Usina de Lacticínios Jussara, apaixonado por transformar dados em insights acionáveis. Recentemente finalizei meu curso em Ciência de Dados pela DNC e possuo certificações em inteligência de mercado, SQL, Excel, Power BI e Python. Com formação inicial em Recursos Humanos e Administração, estou entusiasmado em migrar completamente para a área de Ciência de Dados. Estou pronto para aplicar minhas habilidades analíticas avançadas e impulsionar resultados através da ciência de dados, buscando novas oportunidades desafiadoras nesta emocionante área.</h3>
+<h3 align="center">Atualmente atuo como Analista Comercial na Usina de Lacticínios Jussara e sou apaixonado por transformar dados em insights acionáveis. Recentemente finalizei meu curso em Ciência de Dados pela DNC e possuo certificações em inteligência de mercado, SQL, Excel, Power BI e Python. Com formação inicial em Recursos Humanos e Administração, estou entusiasmado em migrar completamente para a área de Ciência de Dados. Assim, estou pronto para aplicar minhas habilidades analíticas avançadas e impulsionar resultados através da ciência de dados, buscando novas oportunidades desafiadoras nesta área emocionante.</h3>
 
 - 🌱 Atualmente, as principais ferramentas que estou aperfeiçoando são: **Python, Machine Learning**
 
 - 💬 Minhas principais competências são: **Excel; Power BI; SQL; Python**
 
-- 📫 Você pode me encontrar através do LinkedIn **https://www.linkedin.com/in/demitrius-cardoso-6133b521b/**
-
-- 📄 Você consegue verificar melhor minhas competências através do LinkedIn. [https://www.linkedin.com/in/demitrius-cardoso-6133b521b/](https://www.linkedin.com/in/demitrius-cardoso-6133b521b/)
+- 📫 Você pode me encontrar e verificar melhor minhas copetências através do LinkedIn **https://www.linkedin.com/in/demitrius-cardoso-6133b521b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
