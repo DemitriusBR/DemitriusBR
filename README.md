@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente, as principais ferramentas que estou aperfeiçoando são: **Python, Machine Learning**
 
-- 💬 Minhas principais competências são: **Excel; Power BI; SQL; Python**
+- 💬 Minhas principais competências são: **Excel; Power BI; SQL; Python **
 
 - 📫 Você pode me encontrar e verificar melhor minhas copetências através do LinkedIn **https://www.linkedin.com/in/demitrius-cardoso-6133b521b/**
 
