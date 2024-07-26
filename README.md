@@ -7,7 +7,17 @@
 
 - 📫 Você pode me encontrar e verificar melhor minhas copetências através do LinkedIn **https://www.linkedin.com/in/demitrius-cardoso-6133b521b/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Sobre</h3>
+<p>
+  Eu sou um profissional motivado com uma paixão por Ciência de Dados e uma forte base em análise de dados e inteligência de mercado. Com habilidades em Python, SQL, Power BI e Excel, estou sempre em busca de novos desafios que me permitam crescer e aplicar meus conhecimentos para resolver problemas complexos e gerar insights valiosos.
+</p>
+
+<h3 align="left">Objetivos</h3>
+<p>
+  Estou em busca de oportunidades para aplicar minhas habilidades analíticas em projetos desafiadores e inovadores. Se você está interessado em discutir como posso contribuir para sua equipe ou projeto, não hesite em me contatar!
+</p>
+
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/demitrius-cardoso-6133b521b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/demitrius-cardoso-6133b521b/" height="30" width="40" /></a>
 <a href="https://instagram.com/demitriuscardosoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demitriuscardosoo" height="30" width="40" /></a>
