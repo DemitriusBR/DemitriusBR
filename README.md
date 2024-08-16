@@ -2,9 +2,14 @@
   
 Seja bem-vindo ao portfólio do Demitrius Cardoso!</h1>
 <br><br>
-<h3>Recentemente, concluí com sucesso meu curso em Ciência de Dados pela DNC e obtive certificações valiosas em Inteligência de Mercado, SQL, Excel, Power BI e Python. Essa formação técnica, combinada com minha base inicial em Recursos Humanos e Administração, me proporcionou uma visão abrangente e multifacetada, preparando-me para enfrentar desafios e oferecer soluções inovadoras.
+<h3 align="left">Minha história</h3>
+Meu nome é Demitrius Cardoso. Neste portfólio, compartilho alguns projetos que realizei utilizando diversas ferramentas, como Excel, Power BI, SQL e Python, com foco principal na análise e previsão com base em dados. No entanto, minhas competências não se limitam apenas aos projetos de dados.
 <br><br>
-Minhas competências incluem um domínio avançado de ferramentas essenciais como Excel, Power BI e uma breve experiencia em SQL, além de uma proficiência crescente em Python e Machine Learning. Estou especialmente motivado para aplicar essas habilidades em projetos que exijam análise de dados aprofundada e criação de modelos preditivos que possam agregar valor real às organizações..</h3>
+Sou pós-graduado em Gestão de Pessoas e Recursos Humanos e, atualmente, estou cursando duas graduações: Administração, com previsão de conclusão em 2025, e Ciência de Dados, com previsão de conclusão em 2026. Profissionalmente, atuei por aproximadamente 3 anos na área comercial, onde mantive comunicação frequente com clientes e criei dashboards essenciais em Excel para impulsionar as vendas. Foi a partir desse momento que descobri minha paixão e interesse em trabalhar com dados.
+<br><br>
+Recentemente, concluí com sucesso meu curso em Ciência de Dados pela DNC e obtive certificações valiosas em Inteligência de Mercado, SQL, Excel, Power BI e Python. Essa formação técnica, combinada com minha base inicial em Recursos Humanos e Administração, me proporcionou uma visão abrangente e multifacetada, preparando-me para enfrentar desafios e oferecer soluções inovadoras.
+<br><br>
+Minhas competências incluem um domínio avançado de ferramentas essenciais como Excel, Power BI e uma breve experiencia em SQL, além de uma proficiência crescente em Python e Machine Learning. Estou especialmente motivado para aplicar essas habilidades em projetos que exijam análise de dados aprofundada e criação de modelos preditivos que possam agregar valor real às organizações..
 
 <br><br>
 - 🌱 Atualmente, as principais ferramentas que estou aperfeiçoando são: **Python, Machine Learning**
