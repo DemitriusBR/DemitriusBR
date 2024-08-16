@@ -1,5 +1,10 @@
-<h1 align="center">Olá 👋, me chamo Demitrius Cardoso</h1>
-<h3 align="center">Atualmente atuo como Analista Comercial na Usina de Lacticínios Jussara e sou apaixonado por transformar dados em insights acionáveis. Recentemente finalizei meu curso em Ciência de Dados pela DNC e possuo certificações em inteligência de mercado, SQL, Excel, Power BI e Python. Com formação inicial em Recursos Humanos e Administração, estou entusiasmado em migrar completamente para a área de Ciência de Dados. Assim, estou pronto para aplicar minhas habilidades analíticas avançadas e impulsionar resultados através da ciência de dados, buscando novas oportunidades desafiadoras nesta área emocionante.</h3>
+<h1 align="center">Olá,👋👋
+  
+Seja bem-vindo ao portfólio do Demitrius Cardoso!</h1>
+<h3>Recentemente, concluí com sucesso meu curso em Ciência de Dados pela DNC e obtive certificações valiosas em Inteligência de Mercado, SQL, Excel, Power BI e Python. Essa formação técnica, combinada com minha base inicial em Recursos Humanos e Administração, me proporcionou uma visão abrangente e multifacetada, preparando-me para enfrentar desafios e oferecer soluções inovadoras.
+<br><br>
+Minhas competências incluem um domínio avançado de ferramentas essenciais como Excel, Power BI e uma breve experiencia em SQL, além de uma proficiência crescente em Python e Machine Learning. Estou especialmente motivado para aplicar essas habilidades em projetos que exijam análise de dados aprofundada e criação de modelos preditivos que possam agregar valor real às organizações..</h3>
+
 
 - 🌱 Atualmente, as principais ferramentas que estou aperfeiçoando são: **Python, Machine Learning**
 
@@ -8,13 +13,13 @@
 - 📫 Você pode me encontrar e verificar melhor minhas copetências através do LinkedIn **https://www.linkedin.com/in/demitrius-cardoso-6133b521b/**
 
 <h3 align="left">Sobre</h3>
+
+<p>Sou um profissional motivado que encontrou grandeza na área de Ciência de Dados, sustentada por uma sólida experiência em análise de dados e inteligência de mercado, adquirida ao longo de anos na área comercial. Estou constantemente em busca de novos desafios que me permitam crescer e aplicar meus conhecimentos para resolver problemas complexos e gerar insights valiosos. Tenho um forte compromisso com o desenvolvimento contínuo e sou proficiente em ferramentas como Python, SQL, Power BI e Excel.
 <p>
-  Eu sou um profissional motivado com uma paixão por Ciência de Dados e uma forte base em análise de dados e inteligência de mercado. Com habilidades em Python, SQL, Power BI e Excel, estou sempre em busca de novos desafios que me permitam crescer e aplicar meus conhecimentos para resolver problemas complexos e gerar insights valiosos.
-</p>
 
 <h3 align="left">Objetivos</h3>
 <p>
-  Estou em busca de oportunidades para aplicar minhas habilidades analíticas em projetos desafiadores e inovadores. Se você está interessado em discutir como posso contribuir para sua equipe ou projeto, não hesite em me contatar!
+ Atualmente, estou em busca de novas oportunidades para aplicar minhas habilidades em dados em projetos desafiadores e inovadores. Meu objetivo é ganhar experiência prática na área e desenvolver maior solidez com projetos reais. Além disso, desejo contribuir significativamente para a empresa, agregando valor e impulsionando resultados com a experiências já adquiridas.
 </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
