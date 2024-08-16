@@ -1,7 +1,7 @@
 <h1 align="center">Olá,👋👋
   
 Seja bem-vindo ao portfólio do Demitrius Cardoso!</h1>
-<br><br>
+
 <h3 align="left">Minha história</h3>
 Meu nome é Demitrius Cardoso. Neste portfólio, compartilho alguns projetos que realizei utilizando diversas ferramentas, como Excel, Power BI, SQL e Python, com foco principal na análise e previsão com base em dados. No entanto, minhas competências não se limitam apenas aos projetos de dados.
 <br><br>
