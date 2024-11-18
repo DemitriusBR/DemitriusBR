@@ -1,9 +1,9 @@
 <h1 align="center">Olá,👋👋
   
-Seja bem-vindo ao portfólio do Demitrius Cardoso!</h1>
+Sejam bem-vindo ao meu portfólio</h1>
 
 <h3 align="left">Minha história</h3>
-Meu nome é Demitrius Cardoso. Neste portfólio, compartilho alguns projetos que realizei utilizando diversas ferramentas, como Excel, Power BI, SQL e Python, com foco principal na análise e previsão com base em dados. No entanto, minhas competências não se limitam apenas aos projetos de dados.
+Neste portfólio, compartilho alguns projetos que realizei utilizando diversas ferramentas, como Excel, Power BI, SQL e Python, com foco principal na análise e previsão com base em dados. No entanto, minhas competências não se limitam apenas aos projetos de dados.
 <br><br>
 Sou pós-graduado em Gestão de Pessoas e Recursos Humanos e, atualmente, estou cursando duas graduações: Administração, com previsão de conclusão em 2025, e Ciência de Dados, com previsão de conclusão em 2026. Profissionalmente, atuei por aproximadamente 3 anos na área comercial, onde mantive comunicação frequente com clientes e criei dashboards essenciais em Excel para impulsionar as vendas. Foi a partir desse momento que descobri minha paixão e interesse em trabalhar com dados.
 <br><br>
